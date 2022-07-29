@@ -1,0 +1,11 @@
+C:\Users\evyso\Source\Repos\adonet_sise\bin\Debug\AppWinForm.exe.config
+C:\Users\evyso\Source\Repos\adonet_sise\bin\Debug\AppWinForm.exe
+C:\Users\evyso\Source\Repos\adonet_sise\bin\Debug\AppWinForm.pdb
+C:\Users\evyso\Source\Repos\adonet_sise\obj\Debug\AppWinForm.csproj.AssemblyReference.cache
+C:\Users\evyso\Source\Repos\adonet_sise\obj\Debug\AppWinForm.frmTipoCliente.resources
+C:\Users\evyso\Source\Repos\adonet_sise\obj\Debug\AppWinForm.frmTipoClienteEdit.resources
+C:\Users\evyso\Source\Repos\adonet_sise\obj\Debug\AppWinForm.Properties.Resources.resources
+C:\Users\evyso\Source\Repos\adonet_sise\obj\Debug\AppWinForm.csproj.GenerateResource.cache
+C:\Users\evyso\Source\Repos\adonet_sise\obj\Debug\AppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\evyso\Source\Repos\adonet_sise\obj\Debug\AppWinForm.exe
+C:\Users\evyso\Source\Repos\adonet_sise\obj\Debug\AppWinForm.pdb
